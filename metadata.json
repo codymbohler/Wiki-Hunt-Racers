@@ -1,0 +1,8 @@
+{
+  "name": "Wiki Link Hunt Racers",
+  "description": "Wikipedia speedrun game racing through hyperlinked articles from start to target.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
